@@ -100,11 +100,11 @@ Just make sure not to get two NemIDs as then you will have to consolidate these 
 
 ### Online banks 
 
-[Revolut](https://www.nordea.dk/) is a good option to convert money (in case you come from a country with a different currency, p.e. Euro). It is a good idea to create an account and order a card before coming to Denmark (it takes around a week to arrive) to avoid unecessary fees.
+[Revolut](https://www.revolut.com/en-DK) is a good option to convert money (in case you come from a country with a different currency, p.e. Euro). It is a good idea to create an account and order a card before coming to Denmark (it takes around a week to arrive) to avoid unecessary fees.
 
 ### Money transfers from abroad 
 
-Before setting a bank account in Denmark it can be usefull to have some cash with you. You can bring it in your local currency (that you can convert to DKK in exchange offices; **avoid = high currency rates**) or in DKK (convert it in your country; **better option**). Attention: 500€ notes are not accepted in Denmark!!
+Before setting a bank account in Denmark it can be usefull to have some cash with you. You can bring it in your local currency (that you can convert to DKK in exchange offices; **avoid = high currency rates**) or in DKK (convert it in your country; **better option**). **NB:** 500€ notes are not accepted in Denmark!!
 
 If you plan to transfer money from your local bank to your danish bank account (or vice-versa) be sure you check the FEES first. 
 
