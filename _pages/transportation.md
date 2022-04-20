@@ -28,7 +28,7 @@ An anonymous Rejsekort can be issued to anyone and you can let anyone use it. Yo
 
 #### Rejsekort Personal
 
-Once you've got a Nem-ID **(link to Nem-ID article)**, you can get yourself a personal Rejsekort. They can be linked with your bank account so that they are automatically topped up once your balance gets too low. Minimum balance for a personal Rejsekort is 25dkk.
+Once you've got a [Nem-ID](https://cphbiosciencephd.github.io/info/topics/banking#important-nem-id), you can get yourself a personal Rejsekort. They can be linked with your bank account so that they are automatically topped up once your balance gets too low. Minimum balance for a personal Rejsekort is 25dkk.
 To one like these, you can also add a commuter area to your account. This is especially useful for DTU students. In addition, you can take longer distance trips across Denmark with a personal Rejsekort but not with the anonymous one (although of course you can also buy specific tickets for these trips).
 
 NB. **I would strongly recommend the anonymous Rejsekort before you are able to get a personal one. You will have to go to DTU a few times during orientation days, and paying the cost for single tickets can quickly add up.**
