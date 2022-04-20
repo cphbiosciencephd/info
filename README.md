@@ -58,6 +58,9 @@ the editor VSCode in the browser:
 
 Advantages are
 - have a full editor
+- drag and drop files (e.g. images into folders)
+- preview markdownd files (right-click on open file)
+  ![Preview Markdown files](_pages/Figures/editing_vscode_preview_markdown.png)
 - see file changes
   ![View file changes in VSCode](_pages/Figures/editing_vscode_diff.png)
 > Changes are committed (=saved) directly. You will probably need to create a new branch using the context menu.
