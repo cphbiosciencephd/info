@@ -15,7 +15,7 @@ Get a [bike](transportation/bikes) to move around in CPH!
 
 ## Public Transport
 
-To use buses, trains or the metro in Denmark, you can buy tickets at the stations, on the [DOT app](https://dinoffentligetransport.dk/find-og-koeb-billet/salgssteder/dot-billetter-app/) **OR**, and this is the reommended option, you can get yourself a [Rejsekort](https://www.rejsekort.dk/).
+To use buses, trains or the metro in Denmark, you can buy tickets at the stations, on the [DOT app](https://dinoffentligetransport.dk/find-og-koeb-billet/salgssteder/dot-billetter-app/) **OR**, and this is the recommended option, you can get yourself a [Rejsekort](https://www.rejsekort.dk/).
 
 ### Rejsekort
 
