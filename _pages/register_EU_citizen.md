@@ -29,4 +29,4 @@ For this section, we're going to blatantly steal everything from the [lifeX Cope
 
 - If you haven't applied for a bank account yet, [pick a bank and apply for an account](topics/banking).
 - Set up your [eBoks](https://www.e-boks.com/danmark/da/log-paa/). It is an online letter box where you will recieve your payslips and other important mails. 
-- Get yourself a Danish phone number. You will need it to use [Mobile Pay](www.mobilepay.dk/‎). It is a payment service used by pretty much every person in Denmark instead of using cash. It's great for paying someone back or for flea markets! It only works with Danish phone numbers.
+- Get yourself a Danish phone number. You will need it to use [Mobile Pay](www.mobilepay.dk/). It is a payment service used by pretty much every person in Denmark instead of using cash. It's great for paying someone back or for flea markets! It only works with Danish phone numbers.
