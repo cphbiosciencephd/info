@@ -97,3 +97,14 @@ If you choose to get NemID through the bank then you need to have a yellow card 
 The other method of getting a NemID is through Borgerservice. You will need NemID to access NetBank.
 After applying for NetBank online it activates fast (Danske Bank 24 hours) but it can take up to 10 days for NemID to arrive, then another few days for a NemID activation code. So it's often faster to get NemID through Borgerservice as this is usually a same day service.
 Just make sure not to get two NemIDs as then you will have to consolidate these later.
+
+### Online banks 
+
+[Revolut](https://www.nordea.dk/) is a good option to convert money (in case you come from a country with a different currency, p.e. Euro). It is a good idea to create an account and order a card before coming to Denmark (it takes around a week to arrive) to avoid unecessary fees.
+
+### Money transfers from abroad 
+
+Before setting a bank account in Denmark it can be usefull to have some cash with you. You can bring it in your local currency (that you can convert to DKK in exchange offices; **avoid = high currency rates**) or in DKK (convert it in your country; **better option**). Attention: 500€ notes are not accepted in Denmark!!
+
+If you plan to transfer money from your local bank to your danish bank account (or vice-versa) be sure you check the FEES first. 
+
