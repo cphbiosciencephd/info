@@ -12,3 +12,4 @@ toc: true
 - [Banking](topics/banking)
 - [BaseCamp](housing/basecamp)
 - [Learning Danish](topics/learn-danish)
+- [Supermarkets](topics/supermarkets)

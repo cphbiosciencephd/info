@@ -34,12 +34,16 @@ sitemap:
         url: housing/basecamp
       - title: DANISH
         url: topics/learn-danish
+      - title: "Supermarkets"
+        url: topics/supermarkets
   - title: "transportation"
     url: transportation
     children:
       - title: "BIKES"
         url: transportation/bikes
-
+  # potential extension: About this project
+  # - title: "GitHub"
+  #   text: link to <a href="https://github.com/cphbiosciencephd/info">github repository</a>
   
 
   
