@@ -1,7 +1,7 @@
 ---
 title: Grocery shopping in Copenhagen
 layout: single
-permalink: register
+permalink: topics
 sidebar:
   nav: "sitemap"
 toc: true
