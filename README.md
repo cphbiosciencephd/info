@@ -17,6 +17,8 @@ in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBP
 
 > No Coding involved. Only Text
 
+[Some slides](https://docs.google.com/presentation/d/1obZPbSLQGqbkpaRr7Y3k5K8s4NEG7rBaP9BjrbYszS0/edit?usp=sharing) used for presenting some core aspects.
+
 ## Provided Information 
 - [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
   - put into perspective what you have to do
@@ -40,12 +42,30 @@ Without any prior setup on your local site, you can edit files directly on githu
 Once you click on it, you are able to edit and preview your changes. Saving is equal to making a commit.
 
 If you want, you can also upload a picture to 
-[_pages/Figures/img_name.png](_pages\Figures) 
+[_pages/Figures/img_name.png](_pages/Figures) 
 of yours and reference it in your page:
 
 ![Upload your Image](upload_your_image.png)
 
-> you commit your changes to the branch you selected!
+> you commit (=save) your changes to the branch you selected!
+
+### VS Code in the browser editing 
+
+Instead of editing in the browser using the GitHub user interface, you can also directly use
+the editor VSCode in the browser:
+
+- In [github.com/cphbiosciencephd/info..._pages/bikes.md](https://github.com/cphbiosciencephd/info/blob/master/_pages/bikes.md) exchange the `.com` for `.dev`, i.e. [github.dev/cphbiosciencephd/info..._pages/bikes.md](https://github.dev/cphbiosciencephd/info/blob/master/_pages/bikes.md) 
+
+Advantages are
+- have a full editor
+- drag and drop files (e.g. images into folders)
+- preview markdownd files (right-click on open file)
+  ![Preview Markdown files](_pages/Figures/editing_vscode_preview_markdown.png)
+- see file changes
+  ![View file changes in VSCode](_pages/Figures/editing_vscode_diff.png)
+> Changes are committed (=saved) directly. You will probably need to create a new branch using the context menu.
+
+![create a branch in VSCode](_pages/Figures/editing_vscode_create_branch.png)
 
 ### Local file editing
 - Follow the description in [setup.md](setup.md)
