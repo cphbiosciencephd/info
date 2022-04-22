@@ -54,7 +54,7 @@ of yours and reference it in your page:
 Instead of editing in the browser using the GitHub user interface, you can also directly use
 the editor VSCode in the browser:
 
-- In [github.com/cphbiosciencephd/info..._pages/bikes.md)](https://github.com/cphbiosciencephd/info/blob/master/_pages/bikes.md) exchange the `.com` for `.dev`, i.e. [github.dev/cphbiosciencephd/info..._pages/bikes.md)](https://github.dev/cphbiosciencephd/info/blob/master/_pages/bikes.md) 
+- In [github.com/cphbiosciencephd/info..._pages/bikes.md](https://github.com/cphbiosciencephd/info/blob/master/_pages/bikes.md) exchange the `.com` for `.dev`, i.e. [github.dev/cphbiosciencephd/info..._pages/bikes.md](https://github.dev/cphbiosciencephd/info/blob/master/_pages/bikes.md) 
 
 Advantages are
 - have a full editor
